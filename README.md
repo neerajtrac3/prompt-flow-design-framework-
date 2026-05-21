@@ -58,4 +58,3 @@ Enterprise Prompt Flow design patterns, evaluation templates, and governance str
 - How to add new patterns, examples, or governance items
 - Template for submitting new prompt flow designs
 
-> Adding these sections will make the framework more useful as a shared reference, easier to adopt, and better suited for enterprise prompt engineering practices.
